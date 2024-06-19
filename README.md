@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Sana👋
+
+### A Full-Stack Developer result-driven, detail oriented and curious about new technology
+
+
 
 <!--
 **Pokasana/Pokasana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
