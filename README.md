@@ -3,7 +3,7 @@
 ### A Full-Stack Developer result-driven, detail oriented and curious about new technology
 
 ⚪️Skills:
-[Java Script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java Script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 
