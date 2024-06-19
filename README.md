@@ -1,6 +1,6 @@
-## Hi there, I'm Sana👋
+## Hi, I'm Sana👋
 
-### A Full-Stack Developer result-driven, detail oriented and curious about new technology
+### A Full-Stack Developer result-driven, detail oriented and curious about new technology.
 
 ⚪️Skills:
 
@@ -14,6 +14,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+
+⚪️Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanae-soma)
+
+
+⚪️Language: English, Japanese
 
 
 <!--
