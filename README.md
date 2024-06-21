@@ -1,6 +1,6 @@
-## Hi, I'm Sana👋
+### Hello👋
 
-### A Full-Stack Developer result-driven, detail oriented and curious about new technology.
+#### A result-driven, detail-oriented Full-Stack Developer with a curiosity for new technology.
 
 ⚪️Skills:
 
